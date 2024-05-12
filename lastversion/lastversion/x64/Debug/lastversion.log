@@ -1,0 +1,3 @@
+﻿  lastversion.cpp
+C:\Users\User\source\repos\lastversion\lastversion\lastversion.cpp(133): warning C4715: 'Admin::login': not all control paths return a value
+  lastversion.vcxproj -> C:\Users\User\source\repos\lastversion\x64\Debug\lastversion.exe
